@@ -6,7 +6,9 @@
       "author": "Taylor Jenkins Reid",
       "price": "$16",
       "image": "https://m.media-amazon.com/images/I/71XW3M0m9pL.jpg",
-      "description": "CARRIE SOTO ES FEROZ Y SU DETERMINACIÓN DE GANAR A TODA COSTA NO LA HA HECHO POPULAR."
+      "description": "CARRIE SOTO ES FEROZ Y SU DETERMINACIÓN DE GANAR A TODA COSTA NO LA HA HECHO POPULAR.",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 2,
@@ -14,7 +16,9 @@
       "author": "Natalia Ginzburg",
       "price": "$19",
       "image": "https://books.google.com/books/publisher/content/images/frontcover/LJgZEAAAQBAJ?fife=w240-h345",
-      "description": "Cada relato de Natalia Ginzburg es una revelación; las historias que componen 'Domingo' representan el epítome de su inconfundible voz, la de una autora en estado de gracia, que explora los límites tanto de la ficción como de la narración autobiográfica y la crónica."
+      "description": "Cada relato de Natalia Ginzburg es una revelación; las historias que componen 'Domingo' representan el epítome de su inconfundible voz, la de una autora en estado de gracia, que explora los límites tanto de la ficción como de la narración autobiográfica y la crónica.",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 3,
@@ -22,7 +26,9 @@
       "author": "Charlotte Bronte",
       "price": "$21",
       "image": "https://nuhado.co/wp-content/uploads/2021/06/jane-eyre.jpg",
-      "description": "Từ khi còn là một đứa trẻ, Jane Eyre đã khát vọng tự do và yêu lao động, muốn dùng sức lao động của mình để tự lập sinh sống chứ không chịu ngồi im xơi bát vàng hay tìm kiếm vị thế dựa vào tấm chồng. Trong cô là một sức mạnh tâm lý hiếm có, một trạng thái tinh thần lành mạnh, trong sáng bất chấp sự tàn độc của cuộc đời. Tuy luôn phải chịu đựng những bất công từ cuộc đời nhưng Jane không bao giờ nghi ngờ giá trị bản thân và giữ được niềm tin rằng mọi người đều bình đẳng, bao gồm cả bản thân mình."
+      "description": "Từ khi còn là một đứa trẻ, Jane Eyre đã khát vọng tự do và yêu lao động, muốn dùng sức lao động của mình để tự lập sinh sống chứ không chịu ngồi im xơi bát vàng hay tìm kiếm vị thế dựa vào tấm chồng. Trong cô là một sức mạnh tâm lý hiếm có, một trạng thái tinh thần lành mạnh, trong sáng bất chấp sự tàn độc của cuộc đời. Tuy luôn phải chịu đựng những bất công từ cuộc đời nhưng Jane không bao giờ nghi ngờ giá trị bản thân và giữ được niềm tin rằng mọi người đều bình đẳng, bao gồm cả bản thân mình.",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 4,
@@ -30,7 +36,9 @@
       "author": " Chanel Miller",
       "price": "$18",
       "image": "https://m.media-amazon.com/images/I/81hDJ8fj47L.jpg",
-      "description": "«Me llamo Chanel. Soy una víctima, no me da reparo utilizar esta palabra, pero sí creer que eso es todo lo que soy. Sin embargo, no soy “la víctima de Brock Turner”. No soy su nada. No le pertenezco». La historia de Chanel Miller cambió el mundo para siempre. En 2016, Brock Turner, de diecinueve años, la violó en el campus de Stanford. Lo que llegó después fue vivir bajo un pseudónimo y uno de los juicios más mediáticos de la historia de EE. UU., tras el que Turner fue sentenciado a tan solo seis meses de cárcel. Decidió compartir en la red la carta que leyó a su violador en el juicio: «Tú no me conoces, pero has estado dentro de mí, y por eso estamos aquí hoy», empezaba. Once millones de personas la leyeron en cuatro días, y provocó la indignación de un país y la reacción internacional. Después de cuatro años viviendo en el anonimato ha dado el paso de hacer pública su identidad. Y ha contado su historia. 'Tengo un nombre' son unas memorias íntimas y profundamente conmovedoras, que transformarán para siempre nuestra percepción sobre la violencia sexual y que reclaman justicia, sobre todo, pero también el derecho a seguir viviendo."
+      "description": "«Me llamo Chanel. Soy una víctima, no me da reparo utilizar esta palabra, pero sí creer que eso es todo lo que soy. Sin embargo, no soy “la víctima de Brock Turner”. No soy su nada. No le pertenezco». La historia de Chanel Miller cambió el mundo para siempre. En 2016, Brock Turner, de diecinueve años, la violó en el campus de Stanford. Lo que llegó después fue vivir bajo un pseudónimo y uno de los juicios más mediáticos de la historia de EE. UU., tras el que Turner fue sentenciado a tan solo seis meses de cárcel. Decidió compartir en la red la carta que leyó a su violador en el juicio: «Tú no me conoces, pero has estado dentro de mí, y por eso estamos aquí hoy», empezaba. Once millones de personas la leyeron en cuatro días, y provocó la indignación de un país y la reacción internacional. Después de cuatro años viviendo en el anonimato ha dado el paso de hacer pública su identidad. Y ha contado su historia. 'Tengo un nombre' son unas memorias íntimas y profundamente conmovedoras, que transformarán para siempre nuestra percepción sobre la violencia sexual y que reclaman justicia, sobre todo, pero también el derecho a seguir viviendo.",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 5,
@@ -38,7 +46,9 @@
       "author": " Chuck Palahniuk",
       "price": "$13",
       "image": "https://m.media-amazon.com/images/I/810aXO81lGL.jpg",
-      "description": "David Takami, Seattle Times: Adjustment Day is an ingenious darkly comic work in which Chuck Palahniuk does what he does best: skewer the absurdities in our society. Geriatric politicians bring the nation to the brink of a third world war to control the burgeoning population of young males, while working-class men dream of burying the elites. Adjustment Day’s arrival makes real the logical conclusion of every separatist fantasy, alternative fact, and conspiracy theory lurking in the American psyche."
+      "description": "David Takami, Seattle Times: Adjustment Day is an ingenious darkly comic work in which Chuck Palahniuk does what he does best: skewer the absurdities in our society. Geriatric politicians bring the nation to the brink of a third world war to control the burgeoning population of young males, while working-class men dream of burying the elites. Adjustment Day’s arrival makes real the logical conclusion of every separatist fantasy, alternative fact, and conspiracy theory lurking in the American psyche.",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 6,
@@ -46,7 +56,9 @@
       "author": "James Suzman",
       "price": "$18",
       "image": "https://m.media-amazon.com/images/P/B08TZ56LTX.01._SCLZZZZZZZ_SX500_.jpg",
-      "description": "El trabajo nos define. Determina nuestro estatus y dicta cómo, dónde y con quién pasamos la mayor parte de nuestro tiempo. A través del trabajo nos valoramos y nos valoran, pero ¿estamos hechos para trabajar tanto? ¿Acaso nuestros antepasados también vivían para trabajar o trabajaban para vivir? ¿Cómo sería un mundo donde el trabajo no tuviera un papel tan determinante?"
+      "description": "El trabajo nos define. Determina nuestro estatus y dicta cómo, dónde y con quién pasamos la mayor parte de nuestro tiempo. A través del trabajo nos valoramos y nos valoran, pero ¿estamos hechos para trabajar tanto? ¿Acaso nuestros antepasados también vivían para trabajar o trabajaban para vivir? ¿Cómo sería un mundo donde el trabajo no tuviera un papel tan determinante?",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 7,
@@ -54,7 +66,9 @@
       "author": "Ilu Ros",
       "price": "$19",
       "image": "https://books.google.com/books/publisher/content/images/frontcover/W4AnEAAAQBAJ?fife=w240-h345",
-      "description": "La gran dibujante y contadora de historias que es Ilu Ros aborda ahora la vida y obra de Federico García Lorca. Su Federico está lleno de pasión, arte, vida y poesía. Un fino y riguroso trabajo documental que ilustra con su trazo libre, evocador, personalísimo. Una joya."
+      "description": "La gran dibujante y contadora de historias que es Ilu Ros aborda ahora la vida y obra de Federico García Lorca. Su Federico está lleno de pasión, arte, vida y poesía. Un fino y riguroso trabajo documental que ilustra con su trazo libre, evocador, personalísimo. Una joya.",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 8,
@@ -62,7 +76,9 @@
       "author": "Anthony Burgess",
       "price": "$86",
       "image": "https://m.media-amazon.com/images/I/31s-wvmO-tL.jpg",
-      "description": "Esta es una edición completamente revisada del texto original de Anthony Burgess de La naranja mecánica, con un glosario de la jerga adolescente 'Nadsat', notas explicativas, páginas del texto mecanografiado original, entrevistas, artículos y reseñas, Editado por Andrew Biswell."
+      "description": "Esta es una edición completamente revisada del texto original de Anthony Burgess de La naranja mecánica, con un glosario de la jerga adolescente 'Nadsat', notas explicativas, páginas del texto mecanografiado original, entrevistas, artículos y reseñas, Editado por Andrew Biswell.",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 9,
@@ -70,7 +86,9 @@
       "author": "Yaa Gyasi",
       "price": "$19",
       "image": "https://m.media-amazon.com/images/I/81DYjIjT5qL._AC_UF894,1000_QL80_.jpg",
-      "description": "Effia and Esi are born in Ghana during the height of the transatlantic slave trade. They share the same mother, but their fathers are from different ethnic groups. In 14 intertwined chapters, the author narrates the story of the two sides of the family, full of sorrow and hope from either side of the ocean."
+      "description": "Effia and Esi are born in Ghana during the height of the transatlantic slave trade. They share the same mother, but their fathers are from different ethnic groups. In 14 intertwined chapters, the author narrates the story of the two sides of the family, full of sorrow and hope from either side of the ocean.",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 10,
@@ -78,7 +96,9 @@
       "author": "Sergio Del Molino",
       "price": "$19",
       "image": "https://m.media-amazon.com/images/I/81+pfmoOtNL.jpg",
-      "description": "Del Molino no hace más que usar a su modo libérrimo ese género híbrido, casi infinitamente versátil y omnívoro que llamamos novela». –Javier Cercas, El País"
+      "description": "Del Molino no hace más que usar a su modo libérrimo ese género híbrido, casi infinitamente versátil y omnívoro que llamamos novela». –Javier Cercas, El País",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 11,
@@ -86,7 +106,9 @@
       "author": "Anthony Burgess",
       "price": "$5",
       "image": "https://m.media-amazon.com/images/I/51XZ+9n6aRL.jpg",
-      "description": ""
+      "description": "",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 12,
@@ -94,7 +116,9 @@
       "author": "Anthony Burgess",
       "price": "$10",
       "image": "https://m.media-amazon.com/images/P/B09GJB5QV2.01._SCLZZZZZZZ_SX500_.jpg",
-      "description": "Un chef-d'œuvre de science-fiction par l'auteur deL'Orange mécanique"
+      "description": "Un chef-d'œuvre de science-fiction par l'auteur deL'Orange mécanique",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     }
   ],
 
@@ -106,7 +130,9 @@
       "price": "$19",
       "image": "https://m.media-amazon.com/images/I/81DYjIjT5qL._AC_UF894,1000_QL80_.jpg",
       "description": "Effia and Esi are born in Ghana during the height of the transatlantic slave trade. They share the same mother, but their fathers are from different ethnic groups. In 14 intertwined chapters, the author narrates the story of the two sides of the family, full of sorrow and hope from either side of the ocean.",
-      "button":"https://www.svgrepo.com/show/425672/play-player-music.svg"
+      "button":"https://www.svgrepo.com/show/425672/play-player-music.svg",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 2,
@@ -115,7 +141,9 @@
       "price": "$19",
       "image": "https://books.google.com/books/publisher/content/images/frontcover/LJgZEAAAQBAJ?fife=w240-h345",
       "description": "Cada relato de Natalia Ginzburg es una revelación; las historias que componen 'Domingo' representan el epítome de su inconfundible voz, la de una autora en estado de gracia, que explora los límites tanto de la ficción como de la narración autobiográfica y la crónica.",
-      "button":"https://www.svgrepo.com/show/425672/play-player-music.svg"
+      "button":"https://www.svgrepo.com/show/425672/play-player-music.svg",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 7,
@@ -124,7 +152,9 @@
       "price": "$19",
       "image": "https://books.google.com/books/publisher/content/images/frontcover/W4AnEAAAQBAJ?fife=w240-h345",
       "description": "La gran dibujante y contadora de historias que es Ilu Ros aborda ahora la vida y obra de Federico García Lorca. Su Federico está lleno de pasión, arte, vida y poesía. Un fino y riguroso trabajo documental que ilustra con su trazo libre, evocador, personalísimo. Una joya.",
-      "button":"https://www.svgrepo.com/show/425672/play-player-music.svg"
+      "button":"https://www.svgrepo.com/show/425672/play-player-music.svg",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     },
     {
       "id": 12,
@@ -133,7 +163,9 @@
       "price": "$10",
       "image": "https://m.media-amazon.com/images/P/B09GJB5QV2.01._SCLZZZZZZZ_SX500_.jpg",
       "description": "Un chef-d'œuvre de science-fiction par l'auteur deL'Orange mécanique",
-      "button":"https://www.svgrepo.com/show/425672/play-player-music.svg"
+      "button":"https://www.svgrepo.com/show/425672/play-player-music.svg",
+      "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
     }
   ],
 
