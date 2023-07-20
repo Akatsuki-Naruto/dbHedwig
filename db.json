@@ -119,6 +119,46 @@
       "description": "Un chef-d'œuvre de science-fiction par l'auteur deL'Orange mécanique",
       "leftButton":"https://www.svgrepo.com/show/521164/left.svg",
       "rightButton":"https://www.svgrepo.com/show/374749/output.svg"
+    },
+    {
+      "id": 13,
+      "name": "La Folle semence",
+      "author": "Anthony Burgess",
+      "price": "$10",
+      "image": "https://m.media-amazon.com/images/P/B09GJB5QV2.01._SCLZZZZZZZ_SX500_.jpg",
+      "description": "Un chef-d'œuvre de science-fiction par l'auteur deL'Orange mécanique",
+      "leftButton": "https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton": "https://www.svgrepo.com/show/374749/output.svg"
+    },
+    {
+      "id": 14,
+      "name": "La Folle semence",
+      "author": "Anthony Burgess",
+      "price": "$10",
+      "image": "https://m.media-amazon.com/images/P/B09GJB5QV2.01._SCLZZZZZZZ_SX500_.jpg",
+      "description": "Un chef-d'œuvre de science-fiction par l'auteur deL'Orange mécanique",
+      "leftButton": "https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton": "https://www.svgrepo.com/show/374749/output.svg"
+    },
+    {
+      "id": 15,
+      "name": "La Folle semence",
+      "author": "Anthony Burgess",
+      "price": "$10",
+      "image": "https://m.media-amazon.com/images/P/B09GJB5QV2.01._SCLZZZZZZZ_SX500_.jpg",
+      "description": "Un chef-d'œuvre de science-fiction par l'auteur deL'Orange mécanique",
+      "leftButton": "https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton": "https://www.svgrepo.com/show/374749/output.svg"
+    },
+    {
+      "id": 16,
+      "name": "La Folle semence",
+      "author": "Anthony Burgess",
+      "price": "$10",
+      "image": "https://m.media-amazon.com/images/P/B09GJB5QV2.01._SCLZZZZZZZ_SX500_.jpg",
+      "description": "Un chef-d'œuvre de science-fiction par l'auteur deL'Orange mécanique",
+      "leftButton": "https://www.svgrepo.com/show/521164/left.svg",
+      "rightButton": "https://www.svgrepo.com/show/374749/output.svg"
     }
   ]
 }
